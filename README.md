@@ -5,6 +5,6 @@ This project was developed collaboratively with Benjamín Domínguez, and it ser
 We used Python for the development and incorporated automated testing to ensure the correctness of the game logic.
 
 # 🧰 Technologies Used
-Language: Python
-Testing Framework: unittest
-Development Tools: Visual Studio Code, Git
+- Language: Python
+- Testing Framework: unittest
+- Development Tools: Visual Studio Code, Git
